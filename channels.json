@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "manifestUrl": "https://raw.githubusercontent.com/xCynDevelopment/ClearlyRP-Launcher/main/channels.json",
+  "defaultChannel": "live",
+  "tagline": "A city that remembers you.",
+  "links": [
+    { "label": "Discord", "url": "https://discord.gg/xxxxxx" },
+    { "label": "Rules", "url": "" },
+    { "label": "Store", "url": "" }
+  ],
+  "channels": [
+    {
+      "id": "live",
+      "label": "Live",
+      "hidden": false,
+      "connect": "cfx.re/join/xxxxxx",
+      "status": "cfx.re/join/xxxxxx",
+      "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
+      "news": [
+        { "tag": "Launcher", "date": "2026-10-28", "title": "The Clearly launcher is here", "body": "One click to get into the city. It keeps itself up to date and tells you when the server is open." },
+        { "tag": "City", "date": "2026-10-27", "title": "Stores and lottery", "body": "Corner stores have been reworked and scratch-offs are on the shelves. Good luck." },
+        { "tag": "Community", "date": "2026-10-20", "title": "Join the Discord", "body": "Announcements, events and support all happen there. Read the rules before you set foot in town." }
+      ]
+    },
+    {
+      "id": "dev",
+      "label": "Dev",
+      "hidden": true,
+      "connect": "cfx.re/join/xxxxxx",
+      "status": "cfx.re/join/xxxxxx",
+      "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
+      "news": [
+        { "tag": "Dev", "date": "2026-10-28", "title": "Dev and Live share a server for now", "body": "Both channels point at the same city until the dev branch gets its own server. Expect restarts and unfinished work here." }
+      ]
+    }
+  ]
+}
