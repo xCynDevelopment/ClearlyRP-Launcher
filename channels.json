@@ -4,7 +4,7 @@
   "defaultChannel": "live",
   "tagline": "A city that remembers you.",
   "links": [
-    { "label": "Discord", "url": "https://discord.gg/xxxxxx" },
+    { "label": "Discord", "url": "" },
     { "label": "Rules", "url": "" },
     { "label": "Store", "url": "" }
   ],
@@ -13,8 +13,8 @@
       "id": "live",
       "label": "Live",
       "hidden": false,
-      "connect": "cfx.re/join/xxxxxx",
-      "status": "cfx.re/join/xxxxxx",
+      "connect": "184.105.30.26:30121",
+      "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         { "tag": "Launcher", "date": "2026-10-28", "title": "The Clearly launcher is here", "body": "One click to get into the city. It keeps itself up to date and tells you when the server is open." },
@@ -26,8 +26,8 @@
       "id": "dev",
       "label": "Dev",
       "hidden": true,
-      "connect": "cfx.re/join/xxxxxx",
-      "status": "cfx.re/join/xxxxxx",
+      "connect": "184.105.30.26:30121",
+      "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         { "tag": "Dev", "date": "2026-10-28", "title": "Dev and Live share a server for now", "body": "Both channels point at the same city until the dev branch gets its own server. Expect restarts and unfinished work here." }
