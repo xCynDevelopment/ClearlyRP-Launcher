@@ -4,9 +4,18 @@
   "defaultChannel": "live",
   "tagline": "A city that remembers you.",
   "links": [
-    { "label": "Discord", "url": "https://discord.gg/ES3EeTNyvM" },
-    { "label": "Rules", "url": "" },
-    { "label": "Store", "url": "" }
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/ES3EeTNyvM"
+    },
+    {
+      "label": "Rules",
+      "url": ""
+    },
+    {
+      "label": "Store",
+      "url": ""
+    }
   ],
   "channels": [
     {
@@ -17,12 +26,49 @@
       "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
-        { "tag": "Needs testing", "date": "2026-10-29", "title": "Mechanic work is now cinematic", "body": "The latest server update replaces mechanic mouse minigames with automatic work scenes. Test repairs, all four wheels, pads and discs, oil, spark plugs, scanning and paint. Backspace cancels; lift controls remain manual. Check that cancelling restores the car and removes tools and cameras." },
-        { "tag": "Needs testing", "date": "2026-10-29", "title": "Paint booth and mechanic cameras", "body": "Sanding, colour and clear coat now play automatically. Camera wall detection has been corrected, views switch without travelling through walls, and the overhead paint shot is gone. Test narrow booths and different cars; report any view outside the building or mechanic getting stuck." },
-        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Lift controls, hood and parts", "body": "Lift controls are on the black-and-white unit on the blue post. The hood closes after engine work, and the job-step panel now uses Clearly styling. Mechanic parts, tools and custom engines can stack. Please check lift access with a parked car and inventory stacking." },
-        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Death effect and flood recovery", "body": "The death blackout now waits 800 ms before starting. Flood swimming recovery and water rendering also received fixes. Test the death effect timing, then check swimming and returning to normal movement during a staff-run flood test." },
-        { "tag": "Testing", "date": "2026-10-29", "title": "Help us catch the remaining bugs", "body": "These changes still need in-game verification after the server receives its latest update. Report the action, location, vehicle model and what happened in Discord; a short clip helps. News refreshes when you reopen the launcher, without installing a new version.", "url": "https://discord.gg/ES3EeTNyvM" },
-        { "tag": "Community", "date": "2026-10-20", "title": "Join the Discord", "body": "Announcements, events and support all happen there. Read the rules before you set foot in town." }
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Mechanic: hands-on work and shop fixes",
+          "summary": "Hold left click to spray while walking around the car. Short wheel, part and engine jobs keep the props and skip the drawn-out minigames.",
+          "body": "Hold left click to spray while walking around four broad sides of the car; release to pause. Prep and clear coat are automatic. Wheel and brake jobs use one progress bar per corner with changing text, tools and removed-wheel props. Parts use short E actions; engine swaps have a few quick steps with a hoist and visible engine. Normal camera stays under your control. Scanner access is at the door, hood work is at the front and the hood closes afterward. Lift controls are on the post control box. Shops now have guided paint-booth zones and an E menu for active paint orders, tablet-only management, clearer job panels, character-name logs and custom-engine dyno labels. Test all of this, cancellation, stock/payment accuracy and two-player lift movement in the server testing panel.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Recovery: smoother bed and winch movement",
+          "body": "Flatbed and winch movement now use shared timing. Test loading, unloading and raising/lowering with a second player watching, including different FPS and streaming in midway. Report any snapping or drift in the testing panel.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Player experience: phone, emotes and voice",
+          "body": "Phone alerts and unread badges, weapon holstering, call/radio effects, animation recovery and saved walk styles/expressions received fixes. Check them with a friend and after reconnecting. Also verify impound status and waypoints in the Garage app.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Death and flood recovery",
+          "body": "Death blackout now waits 800 ms. Test death, revive and respawn timing. During staff-run flood tests, check swimming, returning to normal movement and water rendering.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Fix to test",
+          "date": "2026-10-29",
+          "title": "Character selection: matching panel tilt",
+          "body": "YOUR NEXT CHAPTER now follows the resident panel tilt. Check readability and character controls at your resolution.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Testing",
+          "date": "2026-10-29",
+          "title": "Server testing and launcher news",
+          "body": "Use the server testing panel to record what works, failures and clips. These updates need real in-game testing after the server pulls main and restarts. News refreshes when you reopen the launcher; no reinstall for future news edits. Launcher 1.0.5 adds expandable news cards.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        }
       ]
     },
     {
@@ -33,9 +79,49 @@
       "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
-        { "tag": "Needs testing", "date": "2026-10-29", "title": "Mechanic cinematics and camera fixes", "body": "Test automatic repair, servicing, scanner and paint scenes after the latest server update. Backspace should cancel cleanly, the hood should close after engine work, and cameras should stay inside the shop. Lift controls remain manual, on the post's black-and-white unit." },
-        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Blackout, floods and inventory", "body": "Check the new 800 ms delay before death blackout, flood swimming recovery and water rendering during staff-run tests, and stacking mechanic parts, tools and custom engines. Report reproducible failures in Discord.", "url": "https://discord.gg/ES3EeTNyvM" },
-        { "tag": "Dev", "date": "2026-10-29", "title": "Dev and Live share the test server", "body": "Both launcher channels currently point at the same server. Expect restarts and unfinished work. News updates separately from the launcher installer; reopen the launcher to fetch the latest cards." }
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Mechanic: hands-on work and shop fixes",
+          "summary": "Hold left click to spray while walking around the car. Short wheel, part and engine jobs keep the props and skip the drawn-out minigames.",
+          "body": "Hold left click to spray while walking around four broad sides of the car; release to pause. Prep and clear coat are automatic. Wheel and brake jobs use one progress bar per corner with changing text, tools and removed-wheel props. Parts use short E actions; engine swaps have a few quick steps with a hoist and visible engine. Normal camera stays under your control. Scanner access is at the door, hood work is at the front and the hood closes afterward. Lift controls are on the post control box. Shops now have guided paint-booth zones and an E menu for active paint orders, tablet-only management, clearer job panels, character-name logs and custom-engine dyno labels. Test all of this, cancellation, stock/payment accuracy and two-player lift movement in the server testing panel.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Recovery: smoother bed and winch movement",
+          "body": "Flatbed and winch movement now use shared timing. Test loading, unloading and raising/lowering with a second player watching, including different FPS and streaming in midway. Report any snapping or drift in the testing panel.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Player experience: phone, emotes and voice",
+          "body": "Phone alerts and unread badges, weapon holstering, call/radio effects, animation recovery and saved walk styles/expressions received fixes. Check them with a friend and after reconnecting. Also verify impound status and waypoints in the Garage app.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-10-29",
+          "title": "Death and flood recovery",
+          "body": "Death blackout now waits 800 ms. Test death, revive and respawn timing. During staff-run flood tests, check swimming, returning to normal movement and water rendering.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Fix to test",
+          "date": "2026-10-29",
+          "title": "Character selection: matching panel tilt",
+          "body": "YOUR NEXT CHAPTER now follows the resident panel tilt. Check readability and character controls at your resolution.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Testing",
+          "date": "2026-10-29",
+          "title": "Server testing and launcher news",
+          "body": "Use the server testing panel to record what works, failures and clips. These updates need real in-game testing after the server pulls main and restarts. News refreshes when you reopen the launcher; no reinstall for future news edits. Launcher 1.0.5 adds expandable news cards.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        }
       ]
     }
   ]
