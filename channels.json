@@ -17,8 +17,11 @@
       "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
-        { "tag": "Launcher", "date": "2026-10-28", "title": "The Clearly launcher is here", "body": "One click to get into the city. It keeps itself up to date and tells you when the server is open." },
-        { "tag": "City", "date": "2026-10-27", "title": "Stores and lottery", "body": "Corner stores have been reworked and scratch-offs are on the shelves. Good luck." },
+        { "tag": "Needs testing", "date": "2026-10-29", "title": "Mechanic work is now cinematic", "body": "The latest server update replaces mechanic mouse minigames with automatic work scenes. Test repairs, all four wheels, pads and discs, oil, spark plugs, scanning and paint. Backspace cancels; lift controls remain manual. Check that cancelling restores the car and removes tools and cameras." },
+        { "tag": "Needs testing", "date": "2026-10-29", "title": "Paint booth and mechanic cameras", "body": "Sanding, colour and clear coat now play automatically. Camera wall detection has been corrected, views switch without travelling through walls, and the overhead paint shot is gone. Test narrow booths and different cars; report any view outside the building or mechanic getting stuck." },
+        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Lift controls, hood and parts", "body": "Lift controls are on the black-and-white unit on the blue post. The hood closes after engine work, and the job-step panel now uses Clearly styling. Mechanic parts, tools and custom engines can stack. Please check lift access with a parked car and inventory stacking." },
+        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Death effect and flood recovery", "body": "The death blackout now waits 800 ms before starting. Flood swimming recovery and water rendering also received fixes. Test the death effect timing, then check swimming and returning to normal movement during a staff-run flood test." },
+        { "tag": "Testing", "date": "2026-10-29", "title": "Help us catch the remaining bugs", "body": "These changes still need in-game verification after the server receives its latest update. Report the action, location, vehicle model and what happened in Discord; a short clip helps. News refreshes when you reopen the launcher, without installing a new version.", "url": "https://discord.gg/ES3EeTNyvM" },
         { "tag": "Community", "date": "2026-10-20", "title": "Join the Discord", "body": "Announcements, events and support all happen there. Read the rules before you set foot in town." }
       ]
     },
@@ -30,7 +33,9 @@
       "status": "184.105.30.26:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
-        { "tag": "Dev", "date": "2026-10-28", "title": "Dev and Live share a server for now", "body": "Both channels point at the same city until the dev branch gets its own server. Expect restarts and unfinished work here." }
+        { "tag": "Needs testing", "date": "2026-10-29", "title": "Mechanic cinematics and camera fixes", "body": "Test automatic repair, servicing, scanner and paint scenes after the latest server update. Backspace should cancel cleanly, the hood should close after engine work, and cameras should stay inside the shop. Lift controls remain manual, on the post's black-and-white unit." },
+        { "tag": "Fixes to test", "date": "2026-10-29", "title": "Blackout, floods and inventory", "body": "Check the new 800 ms delay before death blackout, flood swimming recovery and water rendering during staff-run tests, and stacking mechanic parts, tools and custom engines. Report reproducible failures in Discord.", "url": "https://discord.gg/ES3EeTNyvM" },
+        { "tag": "Dev", "date": "2026-10-29", "title": "Dev and Live share the test server", "body": "Both launcher channels currently point at the same server. Expect restarts and unfinished work. News updates separately from the launcher installer; reopen the launcher to fetch the latest cards." }
       ]
     }
   ]
