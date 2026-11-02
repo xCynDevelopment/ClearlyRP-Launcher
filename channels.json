@@ -22,8 +22,8 @@
       "id": "live",
       "label": "Live",
       "hidden": false,
-      "connect": "cfx.re/join/xllvjdm",
-      "status": "184.105.30.26:30121",
+      "connect": "23.154.132.249:30121",
+      "status": "23.154.132.249:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         {
@@ -75,8 +75,8 @@
       "id": "dev",
       "label": "Dev",
       "hidden": true,
-      "connect": "cfx.re/join/xllvjdm",
-      "status": "184.105.30.26:30121",
+      "connect": "23.154.132.249:30121",
+      "status": "23.154.132.249:30121",
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         {
