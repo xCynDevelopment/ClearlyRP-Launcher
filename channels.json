@@ -27,19 +27,48 @@
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         {
+          "tag": "New job",
+          "date": "2026-11-12",
+          "title": "The Sorting Line: recycling work",
+          "summary": "Work the belt at the recycling warehouse. Pull items into the right boxes, carry full boxes in and get paid at the baler.",
+          "body": "A new solo-friendly job at the recycling warehouse. Grab items off the moving belt into the right box; a box fills at 20 and you carry it over to turn it in. The belt speeds up as you sort. Half-filled boxes and pay waiting at the baler are kept if the server restarts, and Esc no longer opens the pause map while you work. Test a full shift, carrying boxes and getting paid.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New jobs",
+          "date": "2026-11-07",
+          "title": "Window washing, Wildlife Control and farming",
+          "summary": "Three new civilian jobs: ride a cradle up a skyscraper, track and dart loose animals, or farm with friends.",
+          "body": "Window washers ride a cradle up and down a tower facade and squeegee each pane full-screen. Wildlife Control sends you out in a Vapid kennel truck to track animals by paw prints, dart them, carry them back in your arms and release them. Farming adds co-op contracts and tractor plowing. Jobs are handed out by talking to the boss: conversations are now cinematic close-ups with a clipboard map of job areas, and Esc ends a conversation instantly. Test each job solo and with a friend.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
           "tag": "Needs testing",
-          "date": "2026-11-04",
-          "title": "Store robberies: rebuilt from the ground up",
-          "summary": "Aim at the clerk to start. He walks you through the back doors to the safe while your crew breaks into the registers.",
-          "body": "Store robberies now start only by aiming a gun at the clerk, followed by a short cinematic. The clerk walks a robber to each locked door, fumbles it open and leads on to the safe's time lock. He stops if nobody stays within 9 m. Stay calm or Hurry up sets the pace, and rushing a nervous clerk makes him drop the keys. Some registers are left open for a quick grab; the rest take a timed break-in. Cash appears in a bag at a set drop spot. When police are on duty the alarm sends one MDT call; otherwise private security covers the exit and lets you drop, bluff, bribe or fight. Staff build robberies with the one-page /robbery creator. Test start, doors, registers, police and security responses, cuffs/downed/disconnect forfeits and cooldowns.",
+          "date": "2026-11-12",
+          "title": "Crafting benches and skills",
+          "summary": "Benches with blueprints, levels and perks. Lean over the bench, pick a recipe and craft in one click. Track your progress in the new Skills phone app.",
+          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
           "tag": "New",
-          "date": "2026-11-04",
-          "title": "Car music: plug in with an aux cord",
-          "summary": "Buy an aux cord at DigiDen ($35, reusable) and use it while seated. Your phone's Music then plays through the car for everyone inside.",
-          "body": "Buy an aux cord at DigiDen ($35, reusable) and use it while seated to plug your phone into that car. Only the person plugged in controls the music. Getting out, losing the cord or phone, or someone else plugging in unplugs you. Outside the car the music fades with distance and is quieter with the doors closed; a switch chooses In the car only or Outside too. The Music app is rebuilt with Home, Search (paste a YouTube link), Your Library, playlists, Liked Songs, a queue and Now Playing with car controls. Server radio stations play on one shared clock. Test with passengers, people outside, swapping who is plugged in and reconnecting.",
+          "date": "2026-11-10",
+          "title": "Casino and arcade upgrades",
+          "body": "The casino floor is open for testing with roulette upgrades, pachinko and other fixes, and other players' chip stacks are lighter on performance. Arcade machines got an art pass, fixes for every game and fewer stuck cabinets. Report any game that freezes, pays wrong or does not save.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-08",
+          "title": "Vehicles: new controls and car audio",
+          "body": "Vehicle controls are redesigned with movable Clearly layouts and ignition controls, and open straight from the radial menu. The aux cord now plugs into the glovebox AUX slot and keeps playing near a running car, and the vehicle HUD shows what is playing. The stock GTA radio and radio wheel are gone. Spawn drop-offs drive smoothly to the curb. Test the controls, aux music with passengers and a fresh spawn.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-10",
+          "title": "City, sound and quality of life",
+          "body": "Voices are muffled through closed doors and walls (radio and calls are unchanged). Every character now has one permanent player ID, shown on character select. New gun sounds, smaller gun textures and a performance pass should mean smoother frames. The HUD lets you choose when each bar shows, and the compass no longer sticks. Phone calls peek in instead of taking over the screen, you can copy and paste message text, and Esc or M closes the phone from any app. Female characters get 26 new hairstyles. Placeable beer cases, dumpster diving by torchlight and new Vinewood and hill signs are in. Stock GTA fire and ambulance responses are off.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -55,13 +84,6 @@
           "title": "Homes and Realty: own any house",
           "summary": "Buy, mortgage, rent or rent-to-own map houses through a realtor, then furnish the whole house.",
           "body": "Realtors list houses from the phone Realty app, with photos, drafts and chat. Everyone can browse listings on a list or map. Owners place a wall tablet and furnish the whole house without invisible walls. Owners pay for furniture, keyholders get storage, and Left/Right arrows rotate pieces. Buyable wardrobes open saved outfits, a spawn mat sets your Arrivals spawn, and houses can have garages. Weekly tax and seizure are in place. Apartment doors and the Leave option behave better. Clearly garage terminals show vehicle photos, and config-driven elevators are added. Test buying, rent payments, furnishing, keys and wardrobes.",
-          "url": "https://xcynist3r.com/portal/testing/"
-        },
-        {
-          "tag": "Needs testing",
-          "date": "2026-11-04",
-          "title": "Weed and trips",
-          "body": "Weed plants stand on the ground and stay where they were saved. New pots wait for water and food, and dead plants clean up. The generator takes the jerry can. Smoking plays automatically and armor comes after the animation. The plug's tip now lasts until the plug moves, with no daily location texts. Trips add psychedelic effects and private hallucinations, with 2, 5 or 10 minute durations. Test a full grow, selling and a trip.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -84,14 +106,14 @@
           "date": "2026-11-02",
           "title": "Police, MDT and EMS",
           "summary": "Reports are rebuilt as guided steps with drag-and-drop people. The MDT adds Jail, Photos and a command Log, and EMS treatments are server-timed.",
-          "body": "MDT reports use scenario templates, auto-written drafts, drag-and-drop role boxes, evidence and photo panels, a full-size charge picker, Booking and edit history. New tabs cover jail sentences (cadets can view only), a command activity log, shared police photos, case chat and @ officer mentions. The photo viewer was also fixed. Pursuit adds shared NPC police units that escalate with the suspect. EMS gets its own patient care report, server-timed field treatments and bed stays, and duty-checked lockers. Searching a downed player also works reliably now. Test a full arrest-to-booking report and an EMS call from start to finish.",
+          "body": "MDT reports use scenario templates, auto-written drafts, drag-and-drop role boxes, evidence and photo panels, a full-size charge picker, Booking and edit history. New tabs cover jail sentences (cadets can view only), a command activity log, shared police photos, case chat and @ officer mentions. The photo viewer was also fixed. EMS gets its own patient care report, server-timed field treatments and bed stays, and duty-checked lockers. Searching a downed player also works reliably now. Test a full arrest-to-booking report and an EMS call from start to finish.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
           "tag": "Needs testing",
           "date": "2026-11-02",
           "title": "Inventory: drop, place and throw items",
-          "body": "Held items can be aimed, placed on the ground or thrown, and they bounce and slide like bags. Items without their own model drop as a small bag. Stacks and item details are kept when you drop or throw. Lockpicks are now standard regular and advanced picks for cars, doors, tills and jewelry. Losing your last phone or radio ends its call or channel. ATMs only work at recorded locations, and the withdrawal limit is higher. Test throwing, picking up and splitting stacks with a second player.",
+          "body": "Held items can be aimed, placed on the ground or thrown, and they bounce and slide like bags. Items without their own model drop as a small bag. Stacks and item details are kept when you drop or throw. Losing your last phone or radio ends its call or channel. ATMs only work at recorded locations, and the withdrawal limit is higher. Test throwing, picking up and splitting stacks with a second player.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -110,7 +132,7 @@
         },
         {
           "tag": "Testing",
-          "date": "2026-11-04",
+          "date": "2026-11-14",
           "title": "Server testing and launcher news",
           "body": "Use the server testing panel to record what works, what fails, and clips. These updates need real in-game testing after the server pulls main and restarts. News refreshes when you reopen the launcher, so future news edits do not need a reinstall.",
           "url": "https://xcynist3r.com/portal/testing/"
@@ -126,19 +148,48 @@
       "updateFeed": "https://github.com/xCynDevelopment/ClearlyRP-Launcher/releases/latest/download/latest.json",
       "news": [
         {
+          "tag": "New job",
+          "date": "2026-11-12",
+          "title": "The Sorting Line: recycling work",
+          "summary": "Work the belt at the recycling warehouse. Pull items into the right boxes, carry full boxes in and get paid at the baler.",
+          "body": "A new solo-friendly job at the recycling warehouse. Grab items off the moving belt into the right box; a box fills at 20 and you carry it over to turn it in. The belt speeds up as you sort. Half-filled boxes and pay waiting at the baler are kept if the server restarts, and Esc no longer opens the pause map while you work. Test a full shift, carrying boxes and getting paid.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New jobs",
+          "date": "2026-11-07",
+          "title": "Window washing, Wildlife Control and farming",
+          "summary": "Three new civilian jobs: ride a cradle up a skyscraper, track and dart loose animals, or farm with friends.",
+          "body": "Window washers ride a cradle up and down a tower facade and squeegee each pane full-screen. Wildlife Control sends you out in a Vapid kennel truck to track animals by paw prints, dart them, carry them back in your arms and release them. Farming adds co-op contracts and tractor plowing. Jobs are handed out by talking to the boss: conversations are now cinematic close-ups with a clipboard map of job areas, and Esc ends a conversation instantly. Test each job solo and with a friend.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
           "tag": "Needs testing",
-          "date": "2026-11-04",
-          "title": "Store robberies: rebuilt from the ground up",
-          "summary": "Aim at the clerk to start. He walks you through the back doors to the safe while your crew breaks into the registers.",
-          "body": "Store robberies now start only by aiming a gun at the clerk, followed by a short cinematic. The clerk walks a robber to each locked door, fumbles it open and leads on to the safe's time lock. He stops if nobody stays within 9 m. Stay calm or Hurry up sets the pace, and rushing a nervous clerk makes him drop the keys. Some registers are left open for a quick grab; the rest take a timed break-in. Cash appears in a bag at a set drop spot. When police are on duty the alarm sends one MDT call; otherwise private security covers the exit and lets you drop, bluff, bribe or fight. Staff build robberies with the one-page /robbery creator. Test start, doors, registers, police and security responses, cuffs/downed/disconnect forfeits and cooldowns.",
+          "date": "2026-11-12",
+          "title": "Crafting benches and skills",
+          "summary": "Benches with blueprints, levels and perks. Lean over the bench, pick a recipe and craft in one click. Track your progress in the new Skills phone app.",
+          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
           "tag": "New",
-          "date": "2026-11-04",
-          "title": "Car music: plug in with an aux cord",
-          "summary": "Buy an aux cord at DigiDen ($35, reusable) and use it while seated. Your phone's Music then plays through the car for everyone inside.",
-          "body": "Buy an aux cord at DigiDen ($35, reusable) and use it while seated to plug your phone into that car. Only the person plugged in controls the music. Getting out, losing the cord or phone, or someone else plugging in unplugs you. Outside the car the music fades with distance and is quieter with the doors closed; a switch chooses In the car only or Outside too. The Music app is rebuilt with Home, Search (paste a YouTube link), Your Library, playlists, Liked Songs, a queue and Now Playing with car controls. Server radio stations play on one shared clock. Test with passengers, people outside, swapping who is plugged in and reconnecting.",
+          "date": "2026-11-10",
+          "title": "Casino and arcade upgrades",
+          "body": "The casino floor is open for testing with roulette upgrades, pachinko and other fixes, and other players' chip stacks are lighter on performance. Arcade machines got an art pass, fixes for every game and fewer stuck cabinets. Report any game that freezes, pays wrong or does not save.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-08",
+          "title": "Vehicles: new controls and car audio",
+          "body": "Vehicle controls are redesigned with movable Clearly layouts and ignition controls, and open straight from the radial menu. The aux cord now plugs into the glovebox AUX slot and keeps playing near a running car, and the vehicle HUD shows what is playing. The stock GTA radio and radio wheel are gone. Spawn drop-offs drive smoothly to the curb. Test the controls, aux music with passengers and a fresh spawn.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-10",
+          "title": "City, sound and quality of life",
+          "body": "Voices are muffled through closed doors and walls (radio and calls are unchanged). Every character now has one permanent player ID, shown on character select. New gun sounds, smaller gun textures and a performance pass should mean smoother frames. The HUD lets you choose when each bar shows, and the compass no longer sticks. Phone calls peek in instead of taking over the screen, you can copy and paste message text, and Esc or M closes the phone from any app. Female characters get 26 new hairstyles. Placeable beer cases, dumpster diving by torchlight and new Vinewood and hill signs are in. Stock GTA fire and ambulance responses are off.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -154,13 +205,6 @@
           "title": "Homes and Realty: own any house",
           "summary": "Buy, mortgage, rent or rent-to-own map houses through a realtor, then furnish the whole house.",
           "body": "Realtors list houses from the phone Realty app, with photos, drafts and chat. Everyone can browse listings on a list or map. Owners place a wall tablet and furnish the whole house without invisible walls. Owners pay for furniture, keyholders get storage, and Left/Right arrows rotate pieces. Buyable wardrobes open saved outfits, a spawn mat sets your Arrivals spawn, and houses can have garages. Weekly tax and seizure are in place. Apartment doors and the Leave option behave better. Clearly garage terminals show vehicle photos, and config-driven elevators are added. Test buying, rent payments, furnishing, keys and wardrobes.",
-          "url": "https://xcynist3r.com/portal/testing/"
-        },
-        {
-          "tag": "Needs testing",
-          "date": "2026-11-04",
-          "title": "Weed and trips",
-          "body": "Weed plants stand on the ground and stay where they were saved. New pots wait for water and food, and dead plants clean up. The generator takes the jerry can. Smoking plays automatically and armor comes after the animation. The plug's tip now lasts until the plug moves, with no daily location texts. Trips add psychedelic effects and private hallucinations, with 2, 5 or 10 minute durations. Test a full grow, selling and a trip.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -183,14 +227,14 @@
           "date": "2026-11-02",
           "title": "Police, MDT and EMS",
           "summary": "Reports are rebuilt as guided steps with drag-and-drop people. The MDT adds Jail, Photos and a command Log, and EMS treatments are server-timed.",
-          "body": "MDT reports use scenario templates, auto-written drafts, drag-and-drop role boxes, evidence and photo panels, a full-size charge picker, Booking and edit history. New tabs cover jail sentences (cadets can view only), a command activity log, shared police photos, case chat and @ officer mentions. The photo viewer was also fixed. Pursuit adds shared NPC police units that escalate with the suspect. EMS gets its own patient care report, server-timed field treatments and bed stays, and duty-checked lockers. Searching a downed player also works reliably now. Test a full arrest-to-booking report and an EMS call from start to finish.",
+          "body": "MDT reports use scenario templates, auto-written drafts, drag-and-drop role boxes, evidence and photo panels, a full-size charge picker, Booking and edit history. New tabs cover jail sentences (cadets can view only), a command activity log, shared police photos, case chat and @ officer mentions. The photo viewer was also fixed. EMS gets its own patient care report, server-timed field treatments and bed stays, and duty-checked lockers. Searching a downed player also works reliably now. Test a full arrest-to-booking report and an EMS call from start to finish.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
           "tag": "Needs testing",
           "date": "2026-11-02",
           "title": "Inventory: drop, place and throw items",
-          "body": "Held items can be aimed, placed on the ground or thrown, and they bounce and slide like bags. Items without their own model drop as a small bag. Stacks and item details are kept when you drop or throw. Lockpicks are now standard regular and advanced picks for cars, doors, tills and jewelry. Losing your last phone or radio ends its call or channel. ATMs only work at recorded locations, and the withdrawal limit is higher. Test throwing, picking up and splitting stacks with a second player.",
+          "body": "Held items can be aimed, placed on the ground or thrown, and they bounce and slide like bags. Items without their own model drop as a small bag. Stacks and item details are kept when you drop or throw. Losing your last phone or radio ends its call or channel. ATMs only work at recorded locations, and the withdrawal limit is higher. Test throwing, picking up and splitting stacks with a second player.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -209,7 +253,7 @@
         },
         {
           "tag": "Testing",
-          "date": "2026-11-04",
+          "date": "2026-11-14",
           "title": "Server testing and launcher news",
           "body": "Use the server testing panel to record what works, what fails, and clips. These updates need real in-game testing after the server pulls main and restarts. News refreshes when you reopen the launcher, so future news edits do not need a reinstall.",
           "url": "https://xcynist3r.com/portal/testing/"
