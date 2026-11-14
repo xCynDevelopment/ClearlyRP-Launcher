@@ -47,7 +47,30 @@
           "date": "2026-11-12",
           "title": "Crafting benches and skills",
           "summary": "Benches with blueprints, levels and perks. Lean over the bench, pick a recipe and craft in one click. Track your progress in the new Skills phone app.",
-          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
+          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. Specialist benches for weapons and attachments have their own skills. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-11-11",
+          "title": "Store robberies: rebuilt",
+          "summary": "Store robberies are rebuilt from the ground up, with cinematic openings and staff who react to you.",
+          "body": "Store robberies have been rebuilt with cinematic openings, staff and security who react to what you do, and room for a crew to work together. How you get in and how it plays out is for you to find out in the city. Report anything that breaks, gets you stuck or does not reset.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-09",
+          "title": "The underground",
+          "summary": "New ways to make dirty money in the city, and new ways to clean it.",
+          "body": "Car boosting, money laundering and gangs with turf have arrived. Who to talk to and how they work is part of the game: ask around in the city. Report anything that breaks or loses your progress.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-11-04",
+          "title": "Weed growing reworked",
+          "body": "Growing has been reworked: plants stand on the ground and stay where they were saved, need looking after, and clean up if they die. Smoking plays automatically. Report plants that disappear or float.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
@@ -168,7 +191,30 @@
           "date": "2026-11-12",
           "title": "Crafting benches and skills",
           "summary": "Benches with blueprints, levels and perks. Lean over the bench, pick a recipe and craft in one click. Track your progress in the new Skills phone app.",
-          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
+          "body": "Crafting happens at real benches: walk up, lean over the worktop and the menu appears on the table. Recipes show every missing material (\"need 2 more\"), favourites stay on top and crafting is one click with a queue. Crafting has 20 levels with perks, and higher levels open more recipes and benches you can place at home. Several people can watch someone craft, but one person uses a bench at a time. Specialist benches for weapons and attachments have their own skills. The new Skills app on the phone shows your levels. Test crafting, levelling up, placing a home bench and walking away mid-craft.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-11-11",
+          "title": "Store robberies: rebuilt",
+          "summary": "Store robberies are rebuilt from the ground up, with cinematic openings and staff who react to you.",
+          "body": "Store robberies have been rebuilt with cinematic openings, staff and security who react to what you do, and room for a crew to work together. How you get in and how it plays out is for you to find out in the city. Report anything that breaks, gets you stuck or does not reset.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "New",
+          "date": "2026-11-09",
+          "title": "The underground",
+          "summary": "New ways to make dirty money in the city, and new ways to clean it.",
+          "body": "Car boosting, money laundering and gangs with turf have arrived. Who to talk to and how they work is part of the game: ask around in the city. Report anything that breaks or loses your progress.",
+          "url": "https://xcynist3r.com/portal/testing/"
+        },
+        {
+          "tag": "Needs testing",
+          "date": "2026-11-04",
+          "title": "Weed growing reworked",
+          "body": "Growing has been reworked: plants stand on the ground and stay where they were saved, need looking after, and clean up if they die. Smoking plays automatically. Report plants that disappear or float.",
           "url": "https://xcynist3r.com/portal/testing/"
         },
         {
